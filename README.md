@@ -1,1 +1,1 @@
-# connectVerse-application
+# connectverse-application
